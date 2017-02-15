@@ -33,14 +33,13 @@ library(psych)
 We will also need the package `ggplot2`, which is used for creating plots, and the package `dplyr`, which is used for managing data:
 
 ```{r}
-library(ggplot2)
-library(dplyr)
+
 ```
 
 Finally, we'll need the package `nortest` for assessing the normality of our data:
 
 ```{r}
-library(nortest)
+
 ```
 
 
