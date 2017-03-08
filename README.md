@@ -11,7 +11,6 @@ This repository contains files for:
 -   `pulitzer-circulation-data.csv` - example data
 -   `README.md`
 -   `spring-2017-seminar-02.nb.html` - seminar notebook html output
--   `spring-2017-seminar-01.pdf` - seminar notebook pdf output
 -   `spring-2017-seminar-02.Rmd` - R notebook for seminar
 -   `spring-2017-seminar-02.Rproj` - R project for seminar
 
